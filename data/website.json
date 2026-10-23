@@ -3,7 +3,7 @@
     {
       "id": "krfcj1",
       "name": "AI",
-      "icon": "/uploads/ai_model.svg",
+      "icon": "🌀",
       "children": [
         {
           "id": "ai_model",
@@ -165,7 +165,7 @@
     {
       "id": "tool",
       "name": "日常工具",
-      "icon": "/uploads/tool.svg",
+      "icon": "🔧",
       "children": [
         {
           "id": "tool-default",
@@ -183,7 +183,8 @@
           "name": "默认分类",
           "sites": []
         }
-      ]
+      ],
+      "icon": "🎥"
     }
   ]
 }
