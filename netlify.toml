@@ -1,0 +1,14 @@
+# Netlify 部署配置：HTML 运行时配置模式（纯静态产物）
+# 构建后发布 web/ 目录，详见 README 的「HTML 运行时配置模式」章节。
+
+[build]
+  # 构建纯静态产物到 web/，产物内已包含 nav.json、website.json、_headers、.nojekyll
+  command = "pnpm build:html"
+  publish = "web"
+
+[build.environment]
+  # Next.js 16 需要 Node.js 20.9 以上
+  NODE_VERSION = "22"
+  # 显式声明构建模式：让 Netlify 的 Next.js Runtime（若被自动安装）
+  # 能识别这是静态导出，从而跳过 SSR 函数打包
+  BUILD_MODE = "html"
