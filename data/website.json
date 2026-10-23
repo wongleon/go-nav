@@ -168,9 +168,65 @@
       "icon": "/uploads/tool.svg",
       "children": [
         {
-          "id": "tool-default",
-          "name": "默认分类",
-          "sites": []
+          "id": "tool-common",
+          "name": "常用工具",
+          "sites": [
+            {
+              "title": "JSON.cn",
+              "description": "JSON 在线解析与格式化工具，支持校验、压缩和格式转换。",
+              "url": "https://www.json.cn/",
+              "intranetUrl": "",
+              "icon": "",
+              "previewImage": "",
+              "bgColor": "rgba(255, 255, 255, 0)",
+              "iconPadding": "",
+              "tags": []
+            },
+            {
+              "title": "Tinify",
+              "description": "TinyPNG 图片压缩服务，在线压缩 PNG、JPEG 与 WebP 图片。",
+              "url": "https://tinify.com/zh",
+              "intranetUrl": "",
+              "icon": "",
+              "previewImage": "",
+              "bgColor": "rgba(255, 255, 255, 0)",
+              "iconPadding": "",
+              "tags": []
+            },
+            {
+              "title": "PinPix",
+              "description": "在线图片处理工具。",
+              "url": "https://pinpix.com/",
+              "intranetUrl": "",
+              "icon": "",
+              "previewImage": "",
+              "bgColor": "rgba(255, 255, 255, 0)",
+              "iconPadding": "",
+              "tags": []
+            },
+            {
+              "title": "iLovePDF",
+              "description": "PDF 在线处理工具集，支持合并、拆分、压缩与格式转换。",
+              "url": "https://www.ilovepdf.com/zh-cn",
+              "intranetUrl": "",
+              "icon": "",
+              "previewImage": "",
+              "bgColor": "rgba(255, 255, 255, 0)",
+              "iconPadding": "",
+              "tags": []
+            },
+            {
+              "title": "Obsidian",
+              "description": "本地优先的 Markdown 笔记软件，支持双向链接与知识图谱。",
+              "url": "https://obsidian.md/",
+              "intranetUrl": "",
+              "icon": "",
+              "previewImage": "",
+              "bgColor": "rgba(255, 255, 255, 0)",
+              "iconPadding": "",
+              "tags": []
+            }
+          ]
         }
       ]
     },
@@ -179,9 +235,640 @@
       "name": "影视工具",
       "children": [
         {
-          "id": "b8yy7w-default",
-          "name": "默认分类",
-          "sites": []
+          "id": "b8yy7w-collect",
+          "name": "采集源",
+          "sites": [
+            {
+              "title": "猫眼资源",
+              "description": "猫眼资源站，提供影视资源采集接口。",
+              "url": "https://www.maoyanzy.com/",
+              "intranetUrl": "",
+              "icon": "",
+              "previewImage": "",
+              "bgColor": "rgba(255, 255, 255, 0)",
+              "iconPadding": "",
+              "tags": []
+            },
+            {
+              "title": "天涯影视资源",
+              "description": "天涯影视资源站，提供影视资源采集接口。",
+              "url": "https://tyyszy.com/",
+              "intranetUrl": "",
+              "icon": "",
+              "previewImage": "",
+              "bgColor": "rgba(255, 255, 255, 0)",
+              "iconPadding": "",
+              "tags": []
+            },
+            {
+              "title": "非凡资源网",
+              "description": "非凡资源站，提供影视资源采集接口。",
+              "url": "http://www.ffzy.tv/",
+              "intranetUrl": "",
+              "icon": "",
+              "previewImage": "",
+              "bgColor": "rgba(255, 255, 255, 0)",
+              "iconPadding": "",
+              "tags": []
+            },
+            {
+              "title": "量子资源网",
+              "description": "量子资源站，提供影视资源采集接口。",
+              "url": "https://www.lzzy.tv/",
+              "intranetUrl": "",
+              "icon": "",
+              "previewImage": "",
+              "bgColor": "rgba(255, 255, 255, 0)",
+              "iconPadding": "",
+              "tags": []
+            },
+            {
+              "title": "牛牛资源网",
+              "description": "牛牛资源站，提供影视资源采集接口。",
+              "url": "https://niuniuzy6.com/",
+              "intranetUrl": "",
+              "icon": "",
+              "previewImage": "",
+              "bgColor": "rgba(255, 255, 255, 0)",
+              "iconPadding": "",
+              "tags": []
+            },
+            {
+              "title": "索尼资源网",
+              "description": "索尼资源站，提供影视资源采集接口。",
+              "url": "https://suonizy.cc/",
+              "intranetUrl": "",
+              "icon": "",
+              "previewImage": "",
+              "bgColor": "rgba(255, 255, 255, 0)",
+              "iconPadding": "",
+              "tags": []
+            },
+            {
+              "title": "闪电资源网",
+              "description": "闪电资源站，提供影视资源采集接口。",
+              "url": "https://shandianzy.com/",
+              "intranetUrl": "",
+              "icon": "",
+              "previewImage": "",
+              "bgColor": "rgba(255, 255, 255, 0)",
+              "iconPadding": "",
+              "tags": []
+            },
+            {
+              "title": "无尽资源网",
+              "description": "无尽资源站，提供影视资源采集接口。",
+              "url": "https://wujinzy.com/",
+              "intranetUrl": "",
+              "icon": "",
+              "previewImage": "",
+              "bgColor": "rgba(255, 255, 255, 0)",
+              "iconPadding": "",
+              "tags": []
+            },
+            {
+              "title": "OK资源网",
+              "description": "OK 资源站，提供影视资源采集接口。",
+              "url": "https://okzyw.cc/",
+              "intranetUrl": "",
+              "icon": "",
+              "previewImage": "",
+              "bgColor": "rgba(255, 255, 255, 0)",
+              "iconPadding": "",
+              "tags": []
+            },
+            {
+              "title": "快车资源网",
+              "description": "快车资源站，提供影视资源采集接口。",
+              "url": "https://kuaichezy.com/",
+              "intranetUrl": "",
+              "icon": "",
+              "previewImage": "",
+              "bgColor": "rgba(255, 255, 255, 0)",
+              "iconPadding": "",
+              "tags": []
+            },
+            {
+              "title": "最大资源网",
+              "description": "最大资源站，提供影视资源采集接口。",
+              "url": "https://www.zuidazy.co/",
+              "intranetUrl": "",
+              "icon": "",
+              "previewImage": "",
+              "bgColor": "rgba(255, 255, 255, 0)",
+              "iconPadding": "",
+              "tags": []
+            },
+            {
+              "title": "如意资源网",
+              "description": "如意资源站，提供影视资源采集接口。",
+              "url": "https://www.ryzy.tv/",
+              "intranetUrl": "",
+              "icon": "",
+              "previewImage": "",
+              "bgColor": "rgba(255, 255, 255, 0)",
+              "iconPadding": "",
+              "tags": []
+            },
+            {
+              "title": "黑木耳资源网",
+              "description": "黑木耳资源站，提供影视资源采集接口。",
+              "url": "https://www.heimuer.tv/",
+              "intranetUrl": "",
+              "icon": "",
+              "previewImage": "",
+              "bgColor": "rgba(255, 255, 255, 0)",
+              "iconPadding": "",
+              "tags": []
+            },
+            {
+              "title": "卧龙资源网",
+              "description": "卧龙资源站，提供影视资源采集接口。",
+              "url": "https://wolongzyw.com/",
+              "intranetUrl": "",
+              "icon": "",
+              "previewImage": "",
+              "bgColor": "rgba(255, 255, 255, 0)",
+              "iconPadding": "",
+              "tags": []
+            },
+            {
+              "title": "优质资源网",
+              "description": "1080 优质资源站，提供影视资源采集接口。",
+              "url": "https://1080zyk.com/",
+              "intranetUrl": "",
+              "icon": "",
+              "previewImage": "",
+              "bgColor": "rgba(255, 255, 255, 0)",
+              "iconPadding": "",
+              "tags": []
+            },
+            {
+              "title": "豆瓣资源网",
+              "description": "豆瓣资源站，提供影视资源采集接口。",
+              "url": "https://dbzy.tv/",
+              "intranetUrl": "",
+              "icon": "",
+              "previewImage": "",
+              "bgColor": "rgba(255, 255, 255, 0)",
+              "iconPadding": "",
+              "tags": []
+            },
+            {
+              "title": "魔都资源网",
+              "description": "魔都资源站，提供影视资源采集接口。",
+              "url": "https://www.moduzy6.com/",
+              "intranetUrl": "",
+              "icon": "",
+              "previewImage": "",
+              "bgColor": "rgba(255, 255, 255, 0)",
+              "iconPadding": "",
+              "tags": []
+            },
+            {
+              "title": "爱奇艺资源网",
+              "description": "爱奇艺资源站，提供影视资源采集接口。",
+              "url": "https://iqiyizy.cc/",
+              "intranetUrl": "",
+              "icon": "",
+              "previewImage": "",
+              "bgColor": "rgba(255, 255, 255, 0)",
+              "iconPadding": "",
+              "tags": []
+            },
+            {
+              "title": "鸭鸭资源",
+              "description": "鸭鸭资源站，提供影视资源采集接口。",
+              "url": "http://yayazy.net/",
+              "intranetUrl": "",
+              "icon": "",
+              "previewImage": "",
+              "bgColor": "rgba(255, 255, 255, 0)",
+              "iconPadding": "",
+              "tags": []
+            },
+            {
+              "title": "豪华资源",
+              "description": "豪华资源站，提供影视资源采集接口。",
+              "url": "http://www.haohuazy.com/",
+              "intranetUrl": "",
+              "icon": "",
+              "previewImage": "",
+              "bgColor": "rgba(255, 255, 255, 0)",
+              "iconPadding": "",
+              "tags": []
+            },
+            {
+              "title": "人人影视资源站",
+              "description": "人人影视资源站，提供影视资源采集接口。",
+              "url": "https://www.rrys.cc/movielist",
+              "intranetUrl": "",
+              "icon": "",
+              "previewImage": "",
+              "bgColor": "rgba(255, 255, 255, 0)",
+              "iconPadding": "",
+              "tags": []
+            },
+            {
+              "title": "电影天堂采集",
+              "description": "电影天堂资源站，提供影视资源采集接口。",
+              "url": "http://dyttzyw.tv/",
+              "intranetUrl": "",
+              "icon": "",
+              "previewImage": "",
+              "bgColor": "rgba(255, 255, 255, 0)",
+              "iconPadding": "",
+              "tags": []
+            },
+            {
+              "title": "红牛资源",
+              "description": "红牛资源站，提供影视资源采集接口。",
+              "url": "http://hongniuziyuan.com/",
+              "intranetUrl": "",
+              "icon": "",
+              "previewImage": "",
+              "bgColor": "rgba(255, 255, 255, 0)",
+              "iconPadding": "",
+              "tags": []
+            },
+            {
+              "title": "极速资源",
+              "description": "极速资源站，提供影视资源采集接口。",
+              "url": "https://www.jisuzy.com/",
+              "intranetUrl": "",
+              "icon": "",
+              "previewImage": "",
+              "bgColor": "rgba(255, 255, 255, 0)",
+              "iconPadding": "",
+              "tags": []
+            },
+            {
+              "title": "新浪资源",
+              "description": "新浪资源站，提供影视资源采集接口。",
+              "url": "https://www.xinlangzy.net/",
+              "intranetUrl": "",
+              "icon": "",
+              "previewImage": "",
+              "bgColor": "rgba(255, 255, 255, 0)",
+              "iconPadding": "",
+              "tags": []
+            },
+            {
+              "title": "速播资源",
+              "description": "速播资源站，提供影视资源采集接口。",
+              "url": "https://www.subozy.com/",
+              "intranetUrl": "",
+              "icon": "",
+              "previewImage": "",
+              "bgColor": "rgba(255, 255, 255, 0)",
+              "iconPadding": "",
+              "tags": []
+            },
+            {
+              "title": "暴风资源",
+              "description": "暴风资源站，提供影视资源采集接口。",
+              "url": "http://bfzy1.tv/",
+              "intranetUrl": "",
+              "icon": "",
+              "previewImage": "",
+              "bgColor": "rgba(255, 255, 255, 0)",
+              "iconPadding": "",
+              "tags": []
+            },
+            {
+              "title": "爱坤资源",
+              "description": "爱坤资源站，提供影视资源采集接口。",
+              "url": "https://ikunzy.cc/",
+              "intranetUrl": "",
+              "icon": "",
+              "previewImage": "",
+              "bgColor": "rgba(255, 255, 255, 0)",
+              "iconPadding": "",
+              "tags": []
+            },
+            {
+              "title": "360资源",
+              "description": "360 资源站，提供影视资源采集接口。",
+              "url": "https://www.360zyuan.cc/",
+              "intranetUrl": "",
+              "icon": "",
+              "previewImage": "",
+              "bgColor": "rgba(255, 255, 255, 0)",
+              "iconPadding": "",
+              "tags": []
+            },
+            {
+              "title": "U酷资源网",
+              "description": "U 酷资源站，提供影视资源采集接口。",
+              "url": "https://ukuzy.com/",
+              "intranetUrl": "",
+              "icon": "",
+              "previewImage": "",
+              "bgColor": "rgba(255, 255, 255, 0)",
+              "iconPadding": "",
+              "tags": []
+            },
+            {
+              "title": "樱花资源",
+              "description": "樱花资源站，提供影视资源采集接口。",
+              "url": "https://yhzy.cc/",
+              "intranetUrl": "",
+              "icon": "",
+              "previewImage": "",
+              "bgColor": "rgba(255, 255, 255, 0)",
+              "iconPadding": "",
+              "tags": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "material",
+      "name": "素材资源",
+      "icon": "",
+      "children": [
+        {
+          "id": "material-design",
+          "name": "设计素材",
+          "sites": [
+            {
+              "title": "图怪兽",
+              "description": "在线图片制作与微信编辑器工具，无需 PS 也能快速完成设计。",
+              "url": "https://818ps.com/",
+              "intranetUrl": "",
+              "icon": "",
+              "previewImage": "",
+              "bgColor": "rgba(255, 255, 255, 0)",
+              "iconPadding": "",
+              "tags": []
+            },
+            {
+              "title": "稿定设计",
+              "description": "海量设计模板，在线制作海报、简历、PPT、名片与 Logo。",
+              "url": "https://www.gaoding.com/",
+              "intranetUrl": "",
+              "icon": "",
+              "previewImage": "",
+              "bgColor": "rgba(255, 255, 255, 0)",
+              "iconPadding": "",
+              "tags": []
+            },
+            {
+              "title": "UI设计",
+              "description": "UI 中国用户体验平台，国内具有影响力的设计师社区。",
+              "url": "https://www.ui.cn/",
+              "intranetUrl": "",
+              "icon": "",
+              "previewImage": "",
+              "bgColor": "rgba(255, 255, 255, 0)",
+              "iconPadding": "",
+              "tags": []
+            },
+            {
+              "title": "觅元素",
+              "description": "提供高质量版权素材免费下载，包含 PNG 素材、高清背景与设计素材。",
+              "url": "https://www.51yuansu.com/",
+              "intranetUrl": "",
+              "icon": "",
+              "previewImage": "",
+              "bgColor": "rgba(255, 255, 255, 0)",
+              "iconPadding": "",
+              "tags": []
+            },
+            {
+              "title": "灰大素材中心",
+              "description": "灰大素材中心，提供设计相关素材与资源下载。",
+              "url": "https://www.nbchart.com/sucai/sucai.php",
+              "intranetUrl": "",
+              "icon": "",
+              "previewImage": "",
+              "bgColor": "rgba(255, 255, 255, 0)",
+              "iconPadding": "",
+              "tags": []
+            },
+            {
+              "title": "致设计",
+              "description": "电商设计师原创作品展示平台，涵盖店铺、详情页与专题页设计。",
+              "url": "https://www.zhisheji.com/",
+              "intranetUrl": "",
+              "icon": "",
+              "previewImage": "",
+              "bgColor": "rgba(255, 255, 255, 0)",
+              "iconPadding": "",
+              "tags": []
+            },
+            {
+              "title": "数字像素",
+              "description": "可视化设计、开发与定制服务平台。",
+              "url": "https://www.shuzixs.com/#/home/",
+              "intranetUrl": "",
+              "icon": "",
+              "previewImage": "",
+              "bgColor": "rgba(255, 255, 255, 0)",
+              "iconPadding": "",
+              "tags": []
+            },
+            {
+              "title": "千图网",
+              "description": "正版商用图片素材在线设计与下载，提供矢量图、背景等素材。",
+              "url": "https://www.58pic.com/",
+              "intranetUrl": "",
+              "icon": "",
+              "previewImage": "",
+              "bgColor": "rgba(255, 255, 255, 0)",
+              "iconPadding": "",
+              "tags": []
+            },
+            {
+              "title": "摄图网",
+              "description": "正版摄影高清图片素材下载图库，包含手绘插画、海报与 PPT 模板。",
+              "url": "https://699pic.com/",
+              "intranetUrl": "",
+              "icon": "",
+              "previewImage": "",
+              "bgColor": "rgba(255, 255, 255, 0)",
+              "iconPadding": "",
+              "tags": []
+            },
+            {
+              "title": "花瓣网",
+              "description": "设计师寻找灵感的平台，汇聚海量创意图片与设计素材。",
+              "url": "https://huaban.com/",
+              "intranetUrl": "",
+              "icon": "",
+              "previewImage": "",
+              "bgColor": "rgba(255, 255, 255, 0)",
+              "iconPadding": "",
+              "tags": []
+            },
+            {
+              "title": "站酷ZCOOL",
+              "description": "中国设计师互动平台，发现与分享优秀设计作品。",
+              "url": "https://www.zcool.com.cn/",
+              "intranetUrl": "",
+              "icon": "",
+              "previewImage": "",
+              "bgColor": "rgba(255, 255, 255, 0)",
+              "iconPadding": "",
+              "tags": []
+            },
+            {
+              "title": "500PX",
+              "description": "视觉中国旗下专业摄影师社区，汇聚全球摄影作品。",
+              "url": "https://500px.com.cn/",
+              "intranetUrl": "",
+              "icon": "",
+              "previewImage": "",
+              "bgColor": "rgba(255, 255, 255, 0)",
+              "iconPadding": "",
+              "tags": []
+            },
+            {
+              "title": "千库网",
+              "description": "正版高清原创版权素材下载图库，提供海报模板、PPT 模板与 PNG 素材。",
+              "url": "https://588ku.com/",
+              "intranetUrl": "",
+              "icon": "",
+              "previewImage": "",
+              "bgColor": "rgba(255, 255, 255, 0)",
+              "iconPadding": "",
+              "tags": []
+            },
+            {
+              "title": "包图网",
+              "description": "正版商用素材模板平台，涵盖 4K/8K 视频与原创精品版权内容。",
+              "url": "https://ibaotu.com/",
+              "intranetUrl": "",
+              "icon": "",
+              "previewImage": "",
+              "bgColor": "rgba(255, 255, 255, 0)",
+              "iconPadding": "",
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "material-icon",
+          "name": "图标素材",
+          "sites": [
+            {
+              "title": "iconfont",
+              "description": "国内功能强大的矢量图标库，提供图标下载、在线存储与格式转换。",
+              "url": "https://www.iconfont.cn/",
+              "intranetUrl": "",
+              "icon": "",
+              "previewImage": "",
+              "bgColor": "rgba(255, 255, 255, 0)",
+              "iconPadding": "",
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "material-font",
+          "name": "字体下载",
+          "sites": [
+            {
+              "title": "字帅网",
+              "description": "收集上万种 AI 字体提示词，分类清晰，是设计师的灵感加速器。",
+              "url": "https://www.zishuai.com/",
+              "intranetUrl": "",
+              "icon": "",
+              "previewImage": "",
+              "bgColor": "rgba(255, 255, 255, 0)",
+              "iconPadding": "",
+              "tags": []
+            },
+            {
+              "title": "自由字体",
+              "description": "国内免费字体网站，提供可商用免费字体下载。",
+              "url": "https://ziyouziti.com/",
+              "intranetUrl": "",
+              "icon": "",
+              "previewImage": "",
+              "bgColor": "rgba(255, 255, 255, 0)",
+              "iconPadding": "",
+              "tags": []
+            },
+            {
+              "title": "字体下载网",
+              "description": "提供免费字体与商用字体下载，持续搜集各类中文字体。",
+              "url": "https://www.zitixiazai.cn/",
+              "intranetUrl": "",
+              "icon": "",
+              "previewImage": "",
+              "bgColor": "rgba(255, 255, 255, 0)",
+              "iconPadding": "",
+              "tags": []
+            },
+            {
+              "title": "找字体网",
+              "description": "海量无版权字体免费下载，无广告、支持高速下载。",
+              "url": "https://www.zfont.cn/",
+              "intranetUrl": "",
+              "icon": "",
+              "previewImage": "",
+              "bgColor": "rgba(255, 255, 255, 0)",
+              "iconPadding": "",
+              "tags": []
+            },
+            {
+              "title": "猫啃网",
+              "description": "分享无版权问题的免费商用字体信息。",
+              "url": "https://www.maoken.com/",
+              "intranetUrl": "",
+              "icon": "",
+              "previewImage": "",
+              "bgColor": "rgba(255, 255, 255, 0)",
+              "iconPadding": "",
+              "tags": []
+            },
+            {
+              "title": "灰大字体导航",
+              "description": "灰大设计教程与字体资源汇总。",
+              "url": "https://www.pslkzs.com/fonts.php",
+              "intranetUrl": "",
+              "icon": "",
+              "previewImage": "",
+              "bgColor": "rgba(255, 255, 255, 0)",
+              "iconPadding": "",
+              "tags": []
+            },
+            {
+              "title": "100font",
+              "description": "专业免费商用字体下载网站，专注收集免费无版权可商用字体。",
+              "url": "https://www.100font.com/",
+              "intranetUrl": "",
+              "icon": "",
+              "previewImage": "",
+              "bgColor": "rgba(255, 255, 255, 0)",
+              "iconPadding": "",
+              "tags": []
+            },
+            {
+              "title": "你好字库",
+              "description": "免费可商用字体下载，找字体就来你好字库。",
+              "url": "https://zi.hi.cn/",
+              "intranetUrl": "",
+              "icon": "",
+              "previewImage": "",
+              "bgColor": "rgba(255, 255, 255, 0)",
+              "iconPadding": "",
+              "tags": []
+            },
+            {
+              "title": "站长字体",
+              "description": "提供中文字体、英文字体、书法字体与艺术字体下载。",
+              "url": "https://font.chinaz.com/",
+              "intranetUrl": "",
+              "icon": "",
+              "previewImage": "",
+              "bgColor": "rgba(255, 255, 255, 0)",
+              "iconPadding": "",
+              "tags": []
+            }
+          ]
         }
       ]
     }
