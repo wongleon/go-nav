@@ -39,7 +39,7 @@
         "url": "https://www.google.com/search?q={query}"
       }
     ],
-    "engineSelectorWidth": 240
+    "engineSelectorWidth": 120
   },
   "ads": [],
   "plugins": [],
