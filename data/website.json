@@ -3,7 +3,7 @@
     {
       "id": "krfcj1",
       "name": "AI",
-      "icon": "/uploads/ai_model.svg",
+      "icon": "🌀",
       "children": [
         {
           "id": "ai_model",
@@ -165,7 +165,7 @@
     {
       "id": "tool",
       "name": "日常工具",
-      "icon": "/uploads/tool.svg",
+      "icon": "🔧",
       "children": [
         {
           "id": "tool-common",
@@ -233,6 +233,7 @@
     {
       "id": "b8yy7w",
       "name": "影视工具",
+      "icon": "🎬",
       "children": [
         {
           "id": "b8yy7w-collect",
@@ -586,7 +587,7 @@
     {
       "id": "material",
       "name": "素材资源",
-      "icon": "",
+      "icon": "🖼️",
       "children": [
         {
           "id": "material-design",
