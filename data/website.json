@@ -4,7 +4,6 @@
       "id": "krfcj1",
       "name": "AI",
       "icon": "/uploads/ai_model.svg",
-      "description": "聚合主流 AI 助手、搜索与创作工具，覆盖中文办公、学习和内容生成场景",
       "children": [
         {
           "id": "ai_model",
@@ -160,6 +159,29 @@
               "tags": []
             }
           ]
+        }
+      ]
+    },
+    {
+      "id": "tool",
+      "name": "日常工具",
+      "icon": "/uploads/tool.svg",
+      "children": [
+        {
+          "id": "tool-default",
+          "name": "默认分类",
+          "sites": []
+        }
+      ]
+    },
+    {
+      "id": "b8yy7w",
+      "name": "影视工具",
+      "children": [
+        {
+          "id": "b8yy7w-default",
+          "name": "默认分类",
+          "sites": []
         }
       ]
     }
