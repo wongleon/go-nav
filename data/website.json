@@ -229,6 +229,34 @@
           ]
         },
         {
+          "id": "tool-search",
+          "name": "搜索",
+          "sites": [
+            {
+              "title": "千帆搜索",
+              "description": "聚合网盘资源搜索引擎，支持百度网盘、阿里云盘、夸克网盘、蓝奏云、天翼云盘、迅雷云盘等多平台资源搜索。",
+              "url": "https://pan.qianfan.app/",
+              "intranetUrl": "",
+              "icon": "/uploads/fav-qianfan-app.png",
+              "previewImage": "",
+              "bgColor": "rgba(255, 255, 255, 0)",
+              "iconPadding": "",
+              "tags": []
+            },
+            {
+              "title": "飞搜侠",
+              "description": "在线飞书文档搜索工具，快速查找公开飞书文档，获取干货资料、课程与文档数据。",
+              "url": "https://feisoo.com/",
+              "intranetUrl": "",
+              "icon": "/uploads/fav-feisoo-com.png",
+              "previewImage": "",
+              "bgColor": "rgba(255, 255, 255, 0)",
+              "iconPadding": "",
+              "tags": []
+            }
+          ]
+        },
+        {
           "id": "tool-quiz",
           "name": "出题工具",
           "sites": [
@@ -628,6 +656,34 @@
               "url": "https://bbs.qiqiv.cn/thread-5210-1-1.html",
               "intranetUrl": "",
               "icon": "/uploads/fav-tvbox-bbs-qiqiv.png",
+              "previewImage": "",
+              "bgColor": "rgba(255, 255, 255, 0)",
+              "iconPadding": "",
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "b8yy7w-software",
+          "name": "软件",
+          "sites": [
+            {
+              "title": "TVBoxOSC",
+              "description": "TVBox 开源客户端，提供持续构建的 APK 下载。",
+              "url": "https://github.com/j4Uq/TVBoxOSC",
+              "intranetUrl": "",
+              "icon": "/uploads/fav-tvboxosc.png",
+              "previewImage": "",
+              "bgColor": "rgba(255, 255, 255, 0)",
+              "iconPadding": "",
+              "tags": []
+            },
+            {
+              "title": "影视TV",
+              "description": "FongMi 开源的影视播放器，支持 Android TV、手机与平板，具备点播、直播、弹幕与多端互通。",
+              "url": "https://github.com/FongMi/TV",
+              "intranetUrl": "",
+              "icon": "/uploads/fav-fongmi-tv.png",
               "previewImage": "",
               "bgColor": "rgba(255, 255, 255, 0)",
               "iconPadding": "",
