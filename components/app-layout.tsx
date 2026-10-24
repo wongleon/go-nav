@@ -3,6 +3,7 @@ import dynamic from "next/dynamic";
 import { usePathname, useSearchParams } from "next/navigation";
 import { useAtomValue, useSetAtom } from "jotai";
 import { HeaderBundle } from "./header-bundle";
+import { DailySentence } from "./daily-sentence";
 import { AppSidebar } from "./app-sidebar";
 import { AppFooter } from "./app-footer";
 import { FloatingActions } from "./floating-actions";
@@ -132,6 +133,8 @@ export function AppLayout({
 						className={`min-w-0 flex-1 ${hasVisibleHomeAds ? "pt-0 pb-2" : "py-2"}`}
 						style={mainStyle}
 					>
+						{!selectedEntry && !isDetailRoute ? <DailySentence /> : null}
+
 						{selectedEntry ? (
 							<SiteDetailPage entry={selectedEntry} layout={layout} />
 						) : isDetailRoute ? (
