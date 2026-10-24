@@ -164,7 +164,7 @@
     },
     {
       "id": "tool",
-      "name": "日常工具",
+      "name": "工具",
       "icon": "🔧",
       "children": [
         {
@@ -221,6 +221,34 @@
               "url": "https://obsidian.md/",
               "intranetUrl": "",
               "icon": "/uploads/fav-obsidian-md.ico",
+              "previewImage": "",
+              "bgColor": "rgba(255, 255, 255, 0)",
+              "iconPadding": "",
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "tool-quiz",
+          "name": "出题工具",
+          "sites": [
+            {
+              "title": "小学数学出题器",
+              "description": "免费小学数学智能出题器，覆盖幼小衔接至六年级全部题型，口算、竖式、分数、小数混合运算一键生成 A4 试卷，附参考答案，支持打印和 PDF 导出。",
+              "url": "https://chutiqi.zitie5.com/",
+              "intranetUrl": "",
+              "icon": "/uploads/fav-chutiqi-zitie5-com.png",
+              "previewImage": "",
+              "bgColor": "rgba(255, 255, 255, 0)",
+              "iconPadding": "",
+              "tags": []
+            },
+            {
+              "title": "智能出题系统",
+              "description": "在线智能出题系统，自动生成练习题。",
+              "url": "https://mylearntest.netlify.app/",
+              "intranetUrl": "",
+              "icon": "/uploads/fav-mylearntest-netlify-app.png",
               "previewImage": "",
               "bgColor": "rgba(255, 255, 255, 0)",
               "iconPadding": "",
@@ -587,6 +615,17 @@
               "url": "https://bbs.qiqiv.cn/thread-5210-1-1.html",
               "intranetUrl": "",
               "icon": "/uploads/fav-tvbox-bbs-qiqiv.png",
+              "previewImage": "",
+              "bgColor": "rgba(255, 255, 255, 0)",
+              "iconPadding": "",
+              "tags": []
+            },
+            {
+              "title": "TVBox 视频源配置",
+              "description": "聚合豆瓣、最大资源、非凡资源等多条线路的 TVBox 单仓配置，可直接导入使用。",
+              "url": "https://videosource.netlify.app/tvbox/tvbox.json",
+              "intranetUrl": "",
+              "icon": "/uploads/fav-tvbox-videosource.png",
               "previewImage": "",
               "bgColor": "rgba(255, 255, 255, 0)",
               "iconPadding": "",
