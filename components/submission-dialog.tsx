@@ -52,7 +52,7 @@ function buildMailto(email: string, input: SubmissionInput): string {
 		`联系方式：${input.contact || "未填写"}`,
 		`补充说明：${input.note || "未填写"}`,
 		"",
-		"此邮件由 Go Nav 投稿收录功能生成。",
+		"此邮件由 Leon Nav 投稿收录功能生成。",
 	].join("\n");
 	return `mailto:${email}?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(body)}`;
 }

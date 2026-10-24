@@ -13,7 +13,7 @@ export default async function SiteLayout({
 		if (!status.allowed) {
 			return (
 				<SiteAccessForm
-					siteName={status.nav.name || status.nav.title || "Go Nav"}
+					siteName={status.nav.name || status.nav.title || "Leon Nav"}
 					siteLogo={status.nav.logo}
 					siteDescription={status.nav.description}
 					isConfigured={status.passwordConfigured}

@@ -1,6 +1,63 @@
 {
   "categories": [
     {
+      "id": "watch",
+      "name": "常看",
+      "icon": "⭐",
+      "children": [
+        {
+          "id": "watch-common",
+          "name": "日常站点",
+          "sites": [
+            {
+              "title": "掘金",
+              "description": "面向开发者的技术社区，提供技术文章、沸点与开源项目。",
+              "url": "https://juejin.cn/",
+              "intranetUrl": "",
+              "icon": "https://juejin.cn/favicon.ico",
+              "previewImage": "",
+              "bgColor": "rgba(255, 255, 255, 0)",
+              "iconPadding": "",
+              "tags": []
+            },
+            {
+              "title": "今日热榜",
+              "description": "聚合全网热点榜单，实时追踪各平台热门话题。",
+              "url": "https://tophub.today/",
+              "intranetUrl": "",
+              "icon": "https://tophub.today/favicon.ico",
+              "previewImage": "",
+              "bgColor": "rgba(255, 255, 255, 0)",
+              "iconPadding": "",
+              "tags": []
+            },
+            {
+              "title": "NodeLoc",
+              "description": "主机与 VPS 交流社区，讨论服务器、网络技术与优惠信息。",
+              "url": "https://www.nodeloc.com/",
+              "intranetUrl": "",
+              "icon": "https://www.nodeloc.com/uploads/default/optimized/3X/2/c/2ceeba6c72ab2e332ab14158e6a7f4c994ef56bd_2_180x180.png",
+              "previewImage": "",
+              "bgColor": "rgba(255, 255, 255, 0)",
+              "iconPadding": "",
+              "tags": []
+            },
+            {
+              "title": "知乎",
+              "description": "中文问答社区，汇聚各领域的专业回答与深度讨论。",
+              "url": "https://www.zhihu.com/",
+              "intranetUrl": "",
+              "icon": "https://www.zhihu.com/favicon.ico",
+              "previewImage": "",
+              "bgColor": "rgba(255, 255, 255, 0)",
+              "iconPadding": "",
+              "tags": []
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "krfcj1",
       "name": "AI",
       "icon": "🌀",
@@ -260,6 +317,28 @@
               "url": "https://www.netlify.com/",
               "intranetUrl": "",
               "icon": "/uploads/fav-netlify-com.svg",
+              "previewImage": "",
+              "bgColor": "rgba(255, 255, 255, 0)",
+              "iconPadding": "",
+              "tags": []
+            },
+            {
+              "title": "Ant Design",
+              "description": "企业级 UI 设计语言与 React 组件库，提供完整的设计规范和开箱即用的组件。",
+              "url": "https://ant.design/index-cn",
+              "intranetUrl": "",
+              "icon": "https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg",
+              "previewImage": "",
+              "bgColor": "rgba(255, 255, 255, 0)",
+              "iconPadding": "",
+              "tags": []
+            },
+            {
+              "title": "魔戒",
+              "description": "提供网络代理与加速订阅服务的平台。",
+              "url": "https://mojie.app/",
+              "intranetUrl": "",
+              "icon": "https://mojie.app/favicon.ico",
               "previewImage": "",
               "bgColor": "rgba(255, 255, 255, 0)",
               "iconPadding": "",
@@ -738,6 +817,61 @@
               "bgColor": "rgba(255, 255, 255, 0)",
               "iconPadding": "",
               "tags": []
+            },
+            {
+              "title": "咸鱼视频",
+              "description": "影视资源 App 下载页，提供海量影视内容的移动端播放应用。",
+              "url": "http://xianyusp.me/",
+              "intranetUrl": "",
+              "icon": "🐟",
+              "previewImage": "",
+              "bgColor": "rgba(255, 255, 255, 0)",
+              "iconPadding": "",
+              "tags": []
+            },
+            {
+              "title": "闪剧",
+              "description": "主打极速追剧的影视 App，支持多端下载与流畅播放。",
+              "url": "http://shanju.app/",
+              "intranetUrl": "",
+              "icon": "https://shanju.app/icon-512x512.png",
+              "previewImage": "",
+              "bgColor": "rgba(255, 255, 255, 0)",
+              "iconPadding": "",
+              "tags": []
+            },
+            {
+              "title": "大师兄影视",
+              "description": "提供海量电影、电视剧与动漫资源的在线影视平台。",
+              "url": "https://dsxys.com/",
+              "intranetUrl": "",
+              "icon": "https://dsxys.com/assets/monkey.png",
+              "previewImage": "",
+              "bgColor": "rgba(255, 255, 255, 0)",
+              "iconPadding": "",
+              "tags": []
+            },
+            {
+              "title": "网飞猫",
+              "description": "聚合电影、剧集与短剧的影视应用，支持 TV 与移动端。",
+              "url": "http://ncat.app/",
+              "intranetUrl": "",
+              "icon": "https://dl.ncat33.com/ncat/01/images/favicon.ico",
+              "previewImage": "",
+              "bgColor": "rgba(255, 255, 255, 0)",
+              "iconPadding": "",
+              "tags": []
+            },
+            {
+              "title": "小苹果影视盒子",
+              "description": "小苹果影视盒子官网，提供大屏影视播放应用的下载。",
+              "url": "https://www.xpgtv.com/",
+              "intranetUrl": "",
+              "icon": "https://www.xpgtv.com/assets/v20260908/app-icon.png",
+              "previewImage": "",
+              "bgColor": "rgba(255, 255, 255, 0)",
+              "iconPadding": "",
+              "tags": []
             }
           ]
         },
@@ -1056,6 +1190,17 @@
               "url": "https://www.iconfont.cn/",
               "intranetUrl": "",
               "icon": "/uploads/iconfont.png",
+              "previewImage": "",
+              "bgColor": "rgba(255, 255, 255, 0)",
+              "iconPadding": "",
+              "tags": []
+            },
+            {
+              "title": "IconPark",
+              "description": "字节跳动开源图标库，提供 2600+ 可配置线条与填充风格的矢量图标。",
+              "url": "https://iconpark.oceanengine.com/home",
+              "intranetUrl": "",
+              "icon": "/uploads/iconpark.svg",
               "previewImage": "",
               "bgColor": "rgba(255, 255, 255, 0)",
               "iconPadding": "",
