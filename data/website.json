@@ -844,7 +844,7 @@
     },
     {
       "id": "material",
-      "name": "素材资源",
+      "name": "素材",
       "icon": "🖼️",
       "children": [
         {
