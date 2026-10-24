@@ -159,6 +159,34 @@
               "tags": []
             }
           ]
+        },
+        {
+          "id": "ai_study",
+          "name": "学习",
+          "sites": [
+            {
+              "title": "通往AGI之路",
+              "description": "WaytoAGI 社区维护的 AI 学习知识库，覆盖系统学习路径、课程与实践活动。",
+              "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e",
+              "intranetUrl": "",
+              "icon": "🌈",
+              "previewImage": "",
+              "bgColor": "rgba(255, 255, 255, 0)",
+              "iconPadding": "",
+              "tags": []
+            },
+            {
+              "title": "一站式AI产品经理入门指南",
+              "description": "面向 AI 产品经理的系统入门课程指南，含课程大纲与学员案例。",
+              "url": "https://v11enp9ok1h.feishu.cn/wiki/KiIvwdFOciiqqNkwKzTcmn88ndL",
+              "intranetUrl": "",
+              "icon": "🎯",
+              "previewImage": "",
+              "bgColor": "rgba(255, 255, 255, 0)",
+              "iconPadding": "",
+              "tags": []
+            }
+          ]
         }
       ]
     },
@@ -221,6 +249,17 @@
               "url": "https://obsidian.md/",
               "intranetUrl": "",
               "icon": "/uploads/fav-obsidian-md.ico",
+              "previewImage": "",
+              "bgColor": "rgba(255, 255, 255, 0)",
+              "iconPadding": "",
+              "tags": []
+            },
+            {
+              "title": "Netlify",
+              "description": "面向现代 Web 项目的云平台，提供静态站点托管、Serverless Functions 与持续部署能力。",
+              "url": "https://www.netlify.com/",
+              "intranetUrl": "",
+              "icon": "/uploads/fav-netlify-com.svg",
               "previewImage": "",
               "bgColor": "rgba(255, 255, 255, 0)",
               "iconPadding": "",
