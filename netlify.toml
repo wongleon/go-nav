@@ -12,3 +12,20 @@
   # 显式声明构建模式：让 Netlify 的 Next.js Runtime（若被自动安装）
   # 能识别这是静态导出，从而跳过 SSR 函数打包
   BUILD_MODE = "html"
+
+# 每日一言代理函数：静态产物没有 Next API 路由，
+# 由该函数在服务端请求 http 上游，规避 https 页面的混合内容限制。
+[functions]
+  directory = "netlify/functions"
+
+[[redirects]]
+  from = "/api/daily-sentence"
+  to = "/.netlify/functions/daily-sentence"
+  status = 200
+  force = true
+
+[[redirects]]
+  from = "/api/daily-sentence/"
+  to = "/.netlify/functions/daily-sentence"
+  status = 200
+  force = true
