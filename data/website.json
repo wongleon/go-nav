@@ -526,6 +526,73 @@
               "tags": []
             }
           ]
+        },
+        {
+          "id": "b8yy7w-live",
+          "name": "直播源",
+          "sites": [
+            {
+              "title": "IPTV 直播源",
+              "description": "最新免费开源的 IPTV 电视直播源，支持 IPv4/IPv6，每 4 小时自动更新，收录国内、海外、港澳台上千个频道。",
+              "url": "https://iptv.hacks.tools/",
+              "intranetUrl": "",
+              "icon": "/uploads/fav-iptv-hacks-tools.png",
+              "previewImage": "",
+              "bgColor": "rgba(255, 255, 255, 0)",
+              "iconPadding": "",
+              "tags": []
+            }
+          ]
+        },
+        {
+          "id": "b8yy7w-tvbox",
+          "name": "TVBOX源",
+          "sites": [
+            {
+              "title": "饭太硬",
+              "description": "TVBox 配置导航站，汇总多条影视接口线路。",
+              "url": "https://www.饭太硬.net/",
+              "intranetUrl": "",
+              "icon": "/uploads/fav-tvbox-fantaiying.png",
+              "previewImage": "",
+              "bgColor": "rgba(255, 255, 255, 0)",
+              "iconPadding": "",
+              "tags": []
+            },
+            {
+              "title": "摸鱼儿",
+              "description": "TVBox 接口源，提供影视点播线路。",
+              "url": "https://我不是.摸鱼儿.top/",
+              "intranetUrl": "",
+              "icon": "/uploads/fav-tvbox-moyuer.png",
+              "previewImage": "",
+              "bgColor": "rgba(255, 255, 255, 0)",
+              "iconPadding": "",
+              "tags": []
+            },
+            {
+              "title": "优魂盒子",
+              "description": "优质电视盒子应用分享，涵盖影视、直播、工具等 Android TV 应用下载。",
+              "url": "https://app.iyouhun.com/",
+              "intranetUrl": "",
+              "icon": "/uploads/fav-tvbox-app-iyouhun.png",
+              "previewImage": "",
+              "bgColor": "rgba(255, 255, 255, 0)",
+              "iconPadding": "",
+              "tags": []
+            },
+            {
+              "title": "Box 接口推荐",
+              "description": "奇奇论坛整理的 Box 接口合集，汇集饭太硬、摸鱼儿等多条 TVBox 线路。",
+              "url": "https://bbs.qiqiv.cn/thread-5210-1-1.html",
+              "intranetUrl": "",
+              "icon": "/uploads/fav-tvbox-bbs-qiqiv.png",
+              "previewImage": "",
+              "bgColor": "rgba(255, 255, 255, 0)",
+              "iconPadding": "",
+              "tags": []
+            }
+          ]
         }
       ]
     },
