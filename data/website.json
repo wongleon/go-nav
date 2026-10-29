@@ -325,9 +325,20 @@
             {
               "title": "Ant Design",
               "description": "企业级 UI 设计语言与 React 组件库，提供完整的设计规范和开箱即用的组件。",
-              "url": "https://ant.design/index-cn",
+              "url": "https://ant.design/components/overview-cn/",
               "intranetUrl": "",
               "icon": "https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg",
+              "previewImage": "",
+              "bgColor": "rgba(255, 255, 255, 0)",
+              "iconPadding": "",
+              "tags": []
+            },
+            {
+              "title": "Ant Design Mobile",
+              "description": "面向移动端的 React UI 组件库，提供适配手机与平板的组件和交互规范。",
+              "url": "https://mobile.ant.design/zh/guide/quick-start/",
+              "intranetUrl": "",
+              "icon": "https://gw.alipayobjects.com/zos/bmw-prod/b874caa9-4458-412a-9ac6-a61486180a62.svg",
               "previewImage": "",
               "bgColor": "rgba(255, 255, 255, 0)",
               "iconPadding": "",
