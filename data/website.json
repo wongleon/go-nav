@@ -547,17 +547,6 @@
               "tags": []
             },
             {
-              "title": "豆瓣资源网",
-              "description": "豆瓣资源站，提供影视资源采集接口。",
-              "url": "https://dbzy.tv/",
-              "intranetUrl": "",
-              "icon": "/uploads/fav-dbzy-tv.png",
-              "previewImage": "",
-              "bgColor": "rgba(255, 255, 255, 0)",
-              "iconPadding": "",
-              "tags": []
-            },
-            {
               "title": "魔都资源网",
               "description": "魔都资源站，提供影视资源采集接口。",
               "url": "https://www.moduzy6.com/",
@@ -890,17 +879,6 @@
           "id": "b8yy7w-parse",
           "name": "接口解析",
           "sites": [
-            {
-              "title": "青禾VIP视频解析",
-              "description": "免费的VIP电视剧资源、最新上映大片、好看的综艺节目及动漫视频。",
-              "url": "https://tv.qhdh.top",
-              "intranetUrl": "",
-              "icon": "/uploads/fav-parse-qhdh-top.png",
-              "previewImage": "",
-              "bgColor": "rgba(255, 255, 255, 0)",
-              "iconPadding": "",
-              "tags": []
-            },
             {
               "title": "冰豆解析",
               "description": "支持 mp4、m3u8、mp3 及各大视频网站链接。",
