@@ -536,33 +536,11 @@
               "tags": []
             },
             {
-              "title": "优质资源网",
-              "description": "1080 优质资源站，提供影视资源采集接口。",
-              "url": "https://1080zyk.com/",
-              "intranetUrl": "",
-              "icon": "/uploads/fav-1080zyk-com.ico",
-              "previewImage": "",
-              "bgColor": "rgba(255, 255, 255, 0)",
-              "iconPadding": "",
-              "tags": []
-            },
-            {
               "title": "魔都资源网",
               "description": "魔都资源站，提供影视资源采集接口。",
               "url": "https://www.moduzy6.com/",
               "intranetUrl": "",
               "icon": "/uploads/fav-moduzy6-com.png",
-              "previewImage": "",
-              "bgColor": "rgba(255, 255, 255, 0)",
-              "iconPadding": "",
-              "tags": []
-            },
-            {
-              "title": "爱奇艺资源网",
-              "description": "爱奇艺资源站，提供影视资源采集接口。",
-              "url": "https://iqiyizy.cc/",
-              "intranetUrl": "",
-              "icon": "/uploads/fav-iqiyizy-cc.png",
               "previewImage": "",
               "bgColor": "rgba(255, 255, 255, 0)",
               "iconPadding": "",
@@ -723,39 +701,6 @@
               "tags": []
             },
             {
-              "title": "快车资源",
-              "description": "快车资源站，提供影视资源采集接口。",
-              "url": "https://kuaichezy.com/",
-              "intranetUrl": "",
-              "icon": "/uploads/fav-kuaichezy-com.png",
-              "previewImage": "",
-              "bgColor": "rgba(255, 255, 255, 0)",
-              "iconPadding": "",
-              "tags": []
-            },
-            {
-              "title": "快看资源",
-              "description": "快看资源站，提供影视资源采集接口。",
-              "url": "https://kuaikanzy.net/",
-              "intranetUrl": "",
-              "icon": "",
-              "previewImage": "",
-              "bgColor": "rgba(255, 255, 255, 0)",
-              "iconPadding": "",
-              "tags": []
-            },
-            {
-              "title": "卧龙资源",
-              "description": "卧龙资源站，提供影视资源采集接口。",
-              "url": "https://wolongzyw.com/",
-              "intranetUrl": "",
-              "icon": "",
-              "previewImage": "",
-              "bgColor": "rgba(255, 255, 255, 0)",
-              "iconPadding": "",
-              "tags": []
-            },
-            {
               "title": "金鹰资源",
               "description": "金鹰资源站，提供影视资源采集接口。",
               "url": "https://jinyingzy.com/",
@@ -767,33 +712,11 @@
               "tags": []
             },
             {
-              "title": "麒麟资源",
-              "description": "麒麟资源站，提供影视资源采集接口。",
-              "url": "https://www.qilinzyz.com/",
-              "intranetUrl": "",
-              "icon": "/uploads/fav-qilinzyz-com.ico",
-              "previewImage": "",
-              "bgColor": "rgba(255, 255, 255, 0)",
-              "iconPadding": "",
-              "tags": []
-            },
-            {
               "title": "闪电资源",
               "description": "闪电资源站，提供影视资源采集接口。",
               "url": "https://shandianzy.com/",
               "intranetUrl": "",
               "icon": "/uploads/fav-shandianzy-com.png",
-              "previewImage": "",
-              "bgColor": "rgba(255, 255, 255, 0)",
-              "iconPadding": "",
-              "tags": []
-            },
-            {
-              "title": "酷豆资源",
-              "description": "酷豆资源站，提供影视资源采集接口。",
-              "url": "https://kudouzy1.com/",
-              "intranetUrl": "",
-              "icon": "",
               "previewImage": "",
               "bgColor": "rgba(255, 255, 255, 0)",
               "iconPadding": "",
@@ -816,6 +739,61 @@
               "url": "https://aosikazy1.com/",
               "intranetUrl": "",
               "icon": "/uploads/fav-aosikazy1-com.ico",
+              "previewImage": "",
+              "bgColor": "rgba(255, 255, 255, 0)",
+              "iconPadding": "",
+              "tags": []
+            },
+            {
+              "title": "飘零资源",
+              "description": "飘零资源站，提供影视资源采集接口。",
+              "url": "https://p2100.net/",
+              "intranetUrl": "",
+              "icon": "/uploads/fav-p2100-net.ico",
+              "previewImage": "",
+              "bgColor": "rgba(255, 255, 255, 0)",
+              "iconPadding": "",
+              "tags": []
+            },
+            {
+              "title": "艾旦影视",
+              "description": "艾旦影视资源站，提供影视资源采集接口。",
+              "url": "https://www.lovedan.net/",
+              "intranetUrl": "",
+              "icon": "/uploads/fav-lovedan-net.ico",
+              "previewImage": "",
+              "bgColor": "rgba(255, 255, 255, 0)",
+              "iconPadding": "",
+              "tags": []
+            },
+            {
+              "title": "虎牙资源",
+              "description": "虎牙资源采集网，提供影视资源采集接口。",
+              "url": "https://www.huyazy.net/",
+              "intranetUrl": "",
+              "icon": "/uploads/fav-huyazy-net.ico",
+              "previewImage": "",
+              "bgColor": "rgba(255, 255, 255, 0)",
+              "iconPadding": "",
+              "tags": []
+            },
+            {
+              "title": "海豚资源",
+              "description": "海豚资源站，提供影视资源采集接口。",
+              "url": "https://hhzyapi.com/",
+              "intranetUrl": "",
+              "icon": "",
+              "previewImage": "",
+              "bgColor": "rgba(255, 255, 255, 0)",
+              "iconPadding": "",
+              "tags": []
+            },
+            {
+              "title": "如意资源网",
+              "description": "如意资源网，提供影视资源采集接口。",
+              "url": "https://www.ryzy.tv/",
+              "intranetUrl": "",
+              "icon": "/uploads/fav-ryzy-tv.ico",
               "previewImage": "",
               "bgColor": "rgba(255, 255, 255, 0)",
               "iconPadding": "",
