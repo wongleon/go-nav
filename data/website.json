@@ -787,6 +787,17 @@
               "bgColor": "rgba(255, 255, 255, 0)",
               "iconPadding": "",
               "tags": []
+            },
+            {
+              "title": "母鸡资源站",
+              "description": "母鸡资源站，永久免费的影视资源采集站。",
+              "url": "https://mujiziyuan.com/",
+              "intranetUrl": "",
+              "icon": "/uploads/fav-mujiziyuan-com.ico",
+              "previewImage": "",
+              "bgColor": "rgba(255, 255, 255, 0)",
+              "iconPadding": "",
+              "tags": []
             }
           ]
         },
