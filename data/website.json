@@ -448,7 +448,7 @@
               "tags": []
             },
             {
-              "title": "天涯影视资源",
+              "title": "天涯影视",
               "description": "天涯影视资源站，提供影视资源采集接口。",
               "url": "https://tyyszy.com/",
               "intranetUrl": "",
@@ -459,7 +459,7 @@
               "tags": []
             },
             {
-              "title": "非凡资源网",
+              "title": "非凡资源",
               "description": "非凡资源站，提供影视资源采集接口。",
               "url": "http://www.ffzy.tv/",
               "intranetUrl": "",
@@ -470,7 +470,7 @@
               "tags": []
             },
             {
-              "title": "量子资源网",
+              "title": "量子资源",
               "description": "量子资源站，提供影视资源采集接口。",
               "url": "https://www.lzzy.tv/",
               "intranetUrl": "",
@@ -481,7 +481,7 @@
               "tags": []
             },
             {
-              "title": "牛牛资源网",
+              "title": "牛牛资源",
               "description": "牛牛资源站，提供影视资源采集接口。",
               "url": "https://niuniuzy6.com/",
               "intranetUrl": "",
@@ -492,7 +492,7 @@
               "tags": []
             },
             {
-              "title": "索尼资源网",
+              "title": "索尼资源",
               "description": "索尼资源站，提供影视资源采集接口。",
               "url": "https://suonizy.cc/",
               "intranetUrl": "",
@@ -503,7 +503,7 @@
               "tags": []
             },
             {
-              "title": "无尽资源网",
+              "title": "无尽资源",
               "description": "无尽资源站，提供影视资源采集接口。",
               "url": "https://wujinzy.com/",
               "intranetUrl": "",
@@ -514,7 +514,7 @@
               "tags": []
             },
             {
-              "title": "OK资源网",
+              "title": "OK资源",
               "description": "OK 资源站，提供影视资源采集接口。",
               "url": "https://okzyw.cc/",
               "intranetUrl": "",
@@ -525,7 +525,7 @@
               "tags": []
             },
             {
-              "title": "最大资源网",
+              "title": "最大资源",
               "description": "最大资源站，提供影视资源采集接口。",
               "url": "https://www.zuidazy.co/",
               "intranetUrl": "",
@@ -536,7 +536,7 @@
               "tags": []
             },
             {
-              "title": "魔都资源网",
+              "title": "魔都资源",
               "description": "魔都资源站，提供影视资源采集接口。",
               "url": "https://www.moduzy6.com/",
               "intranetUrl": "",
@@ -569,18 +569,7 @@
               "tags": []
             },
             {
-              "title": "人人影视资源站",
-              "description": "人人影视资源站，提供影视资源采集接口。",
-              "url": "https://www.rrys.cc/movielist",
-              "intranetUrl": "",
-              "icon": "/uploads/fav-rrys-cc.svg",
-              "previewImage": "",
-              "bgColor": "rgba(255, 255, 255, 0)",
-              "iconPadding": "",
-              "tags": []
-            },
-            {
-              "title": "电影天堂采集",
+              "title": "电影天堂资源",
               "description": "电影天堂资源站，提供影视资源采集接口。",
               "url": "http://dyttzyw.tv/",
               "intranetUrl": "",
@@ -668,7 +657,7 @@
               "tags": []
             },
             {
-              "title": "U酷资源网",
+              "title": "U酷资源",
               "description": "U 酷资源站，提供影视资源采集接口。",
               "url": "https://ukuzy.com/",
               "intranetUrl": "",
@@ -789,7 +778,7 @@
               "tags": []
             },
             {
-              "title": "如意资源网",
+              "title": "如意资源",
               "description": "如意资源网，提供影视资源采集接口。",
               "url": "https://www.ryzy.tv/",
               "intranetUrl": "",
