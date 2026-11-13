@@ -798,6 +798,17 @@
               "bgColor": "rgba(255, 255, 255, 0)",
               "iconPadding": "",
               "tags": []
+            },
+            {
+              "title": "巨量资源",
+              "description": "巨量资源采集接口，片库约 35 万条，无独立官网。",
+              "url": "https://api.juliang.live/",
+              "intranetUrl": "",
+              "icon": "",
+              "previewImage": "",
+              "bgColor": "rgba(255, 255, 255, 0)",
+              "iconPadding": "",
+              "tags": []
             }
           ]
         },
