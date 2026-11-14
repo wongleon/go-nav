@@ -311,17 +311,7 @@
               "iconPadding": "",
               "tags": []
             },
-            {
-              "title": "Netlify",
-              "description": "面向现代 Web 项目的云平台，提供静态站点托管、Serverless Functions 与持续部署能力。",
-              "url": "https://www.netlify.com/",
-              "intranetUrl": "",
-              "icon": "/uploads/fav-netlify-com.svg",
-              "previewImage": "",
-              "bgColor": "rgba(255, 255, 255, 0)",
-              "iconPadding": "",
-              "tags": []
-            },
+          
             {
               "title": "Ant Design",
               "description": "企业级 UI 设计语言与 React 组件库，提供完整的设计规范和开箱即用的组件。",
@@ -393,6 +383,28 @@
               "bgColor": "rgba(255, 255, 255, 0)",
               "iconPadding": "",
               "tags": []
+            },
+            {
+              "title": "Netlify",
+              "description": "面向现代 Web 项目的云平台，提供静态站点托管、Serverless Functions 与持续部署能力。",
+              "url": "https://www.netlify.com/",
+              "intranetUrl": "",
+              "icon": "/uploads/fav-netlify-com.svg",
+              "previewImage": "",
+              "bgColor": "rgba(255, 255, 255, 0)",
+              "iconPadding": "",
+              "tags": []
+            },
+            {
+              "title": "CF 优选 IP",
+              "description": "Cloudflare 优选 IP 地址查询与测速工具，提供各运营商实时优选结果。",
+              "url": "https://vps789.com/cfip/",
+              "intranetUrl": "",
+              "icon": "/uploads/fav-vps789-com.ico",
+              "previewImage": "",
+              "bgColor": "rgba(255, 255, 255, 0)",
+              "iconPadding": "",
+              "tags": []
             }
           ]
         },
@@ -443,7 +455,7 @@
             {
               "title": "智能出题系统",
               "description": "在线智能出题系统，自动生成练习题。",
-              "url": "https://mylearntest.netlify.app/",
+              "url": "https://learn.aloen.cc.cd",
               "intranetUrl": "",
               "icon": "/uploads/fav-mylearntest-netlify-app.png",
               "previewImage": "",
@@ -876,7 +888,7 @@
             {
               "title": "videosource",
               "description": "聚合豆瓣、最大资源、非凡资源等多条线路的 TVBox 单仓配置，可直接导入使用。",
-              "url": "https://videosource.netlify.app/tvbox/tvbox.json",
+              "url": "https://videosource.aleon.cc.cd/tvbox/tvbox.json",
               "intranetUrl": "",
               "icon": "/uploads/fav-tvbox-videosource.png",
               "previewImage": "",
