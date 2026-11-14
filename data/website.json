@@ -358,6 +358,45 @@
           ]
         },
         {
+          "id": "tool-build",
+          "name": "建站工具",
+          "sites": [
+            {
+              "title": "DNSHE",
+              "description": "免费域名与 DNS 解析服务的用户控制台。",
+              "url": "https://my.dnshe.com/",
+              "intranetUrl": "",
+              "icon": "/uploads/fav-my-dnshe-com.png",
+              "previewImage": "",
+              "bgColor": "rgba(255, 255, 255, 0)",
+              "iconPadding": "",
+              "tags": []
+            },
+            {
+              "title": "Cloudflare",
+              "description": "全球 CDN、DNS 解析与安全防护平台，建站常用的域名托管与加速服务。",
+              "url": "https://www.cloudflare.com/",
+              "intranetUrl": "",
+              "icon": "/uploads/fav-cloudflare-com.png",
+              "previewImage": "",
+              "bgColor": "rgba(255, 255, 255, 0)",
+              "iconPadding": "",
+              "tags": []
+            },
+            {
+              "title": "CF 优选域名",
+              "description": "Cloudflare 国内优选 CNAME 域名，按三网自适应分流。",
+              "url": "https://cf.090227.xyz/",
+              "intranetUrl": "",
+              "icon": "",
+              "previewImage": "",
+              "bgColor": "rgba(255, 255, 255, 0)",
+              "iconPadding": "",
+              "tags": []
+            }
+          ]
+        },
+        {
           "id": "tool-search",
           "name": "搜索",
           "sites": [
