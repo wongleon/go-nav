@@ -405,6 +405,17 @@
               "bgColor": "rgba(255, 255, 255, 0)",
               "iconPadding": "",
               "tags": []
+            },
+            {
+              "title": "Yunamo",
+              "description": "免费二级域名服务，注册自定义前缀即可指向任意托管平台，无需信用卡。",
+              "url": "https://yunamo.com/",
+              "intranetUrl": "",
+              "icon": "/uploads/fav-yunamo-com.ico",
+              "previewImage": "",
+              "bgColor": "rgba(255, 255, 255, 0)",
+              "iconPadding": "",
+              "tags": []
             }
           ]
         },
