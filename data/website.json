@@ -344,6 +344,17 @@
               "bgColor": "rgba(255, 255, 255, 0)",
               "iconPadding": "",
               "tags": []
+            },
+            {
+              "title": "PDF Tools",
+              "description": "自建 PDF 在线处理工具。",
+              "url": "https://pdftools.leon.loc.cc/",
+              "intranetUrl": "",
+              "icon": "https://pdftools.leon.loc.cc/favicon.ico",
+              "previewImage": "",
+              "bgColor": "rgba(255, 255, 255, 0)",
+              "iconPadding": "",
+              "tags": []
             }
           ]
         },
