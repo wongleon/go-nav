@@ -939,6 +939,17 @@
               "bgColor": "rgba(255, 255, 255, 0)",
               "iconPadding": "",
               "tags": []
+            },
+            {
+              "title": "肥猫",
+              "description": "肥猫 TVBox 接口源，提供影视点播线路。",
+              "url": "http://xn--z7x900a.net/",
+              "intranetUrl": "",
+              "icon": "",
+              "previewImage": "",
+              "bgColor": "rgba(255, 255, 255, 0)",
+              "iconPadding": "",
+              "tags": []
             }
           ]
         },
