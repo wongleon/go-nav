@@ -427,6 +427,17 @@
               "bgColor": "rgba(255, 255, 255, 0)",
               "iconPadding": "",
               "tags": []
+            },
+            {
+              "title": "cron-job.org",
+              "description": "免费在线定时任务（Cron）调度服务，按固定周期自动触发 URL 请求。",
+              "url": "https://console.cron-job.org/jobs/folders/68810/8940252",
+              "intranetUrl": "",
+              "icon": "",
+              "previewImage": "",
+              "bgColor": "rgba(255, 255, 255, 0)",
+              "iconPadding": "",
+              "tags": []
             }
           ]
         },
